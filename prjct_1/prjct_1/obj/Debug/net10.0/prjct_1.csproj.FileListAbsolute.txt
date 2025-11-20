@@ -1,0 +1,14 @@
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_1\prjct_1\bin\Debug\net10.0\prjct_1.exe
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_1\prjct_1\bin\Debug\net10.0\prjct_1.deps.json
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_1\prjct_1\bin\Debug\net10.0\prjct_1.runtimeconfig.json
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_1\prjct_1\bin\Debug\net10.0\prjct_1.dll
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_1\prjct_1\bin\Debug\net10.0\prjct_1.pdb
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_1\prjct_1\obj\Debug\net10.0\prjct_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_1\prjct_1\obj\Debug\net10.0\prjct_1.AssemblyInfoInputs.cache
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_1\prjct_1\obj\Debug\net10.0\prjct_1.AssemblyInfo.cs
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_1\prjct_1\obj\Debug\net10.0\prjct_1.csproj.CoreCompileInputs.cache
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_1\prjct_1\obj\Debug\net10.0\prjct_1.dll
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_1\prjct_1\obj\Debug\net10.0\refint\prjct_1.dll
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_1\prjct_1\obj\Debug\net10.0\prjct_1.pdb
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_1\prjct_1\obj\Debug\net10.0\prjct_1.genruntimeconfig.cache
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_1\prjct_1\obj\Debug\net10.0\ref\prjct_1.dll
