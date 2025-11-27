@@ -1,0 +1,14 @@
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_2\prjct_2\bin\Debug\net10.0\prjct_2.exe
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_2\prjct_2\bin\Debug\net10.0\prjct_2.deps.json
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_2\prjct_2\bin\Debug\net10.0\prjct_2.runtimeconfig.json
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_2\prjct_2\bin\Debug\net10.0\prjct_2.dll
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_2\prjct_2\bin\Debug\net10.0\prjct_2.pdb
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_2\prjct_2\obj\Debug\net10.0\prjct_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_2\prjct_2\obj\Debug\net10.0\prjct_2.AssemblyInfoInputs.cache
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_2\prjct_2\obj\Debug\net10.0\prjct_2.AssemblyInfo.cs
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_2\prjct_2\obj\Debug\net10.0\prjct_2.csproj.CoreCompileInputs.cache
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_2\prjct_2\obj\Debug\net10.0\prjct_2.dll
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_2\prjct_2\obj\Debug\net10.0\refint\prjct_2.dll
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_2\prjct_2\obj\Debug\net10.0\prjct_2.pdb
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_2\prjct_2\obj\Debug\net10.0\prjct_2.genruntimeconfig.cache
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_2\prjct_2\obj\Debug\net10.0\ref\prjct_2.dll
