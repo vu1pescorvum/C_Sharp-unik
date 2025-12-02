@@ -1,0 +1,14 @@
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_3\prjct_3\bin\Debug\net10.0\prjct_3.exe
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_3\prjct_3\bin\Debug\net10.0\prjct_3.deps.json
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_3\prjct_3\bin\Debug\net10.0\prjct_3.runtimeconfig.json
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_3\prjct_3\bin\Debug\net10.0\prjct_3.dll
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_3\prjct_3\bin\Debug\net10.0\prjct_3.pdb
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_3\prjct_3\obj\Debug\net10.0\prjct_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_3\prjct_3\obj\Debug\net10.0\prjct_3.AssemblyInfoInputs.cache
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_3\prjct_3\obj\Debug\net10.0\prjct_3.AssemblyInfo.cs
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_3\prjct_3\obj\Debug\net10.0\prjct_3.csproj.CoreCompileInputs.cache
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_3\prjct_3\obj\Debug\net10.0\prjct_3.dll
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_3\prjct_3\obj\Debug\net10.0\refint\prjct_3.dll
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_3\prjct_3\obj\Debug\net10.0\prjct_3.pdb
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_3\prjct_3\obj\Debug\net10.0\prjct_3.genruntimeconfig.cache
+C:\Users\Эд\Desktop\proga(unik)\C#\prjct_3\prjct_3\obj\Debug\net10.0\ref\prjct_3.dll
